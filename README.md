@@ -1,23 +1,33 @@
 # 👋 Hi, I'm Amit Pal
 
 🎓 B.Tech Student (2023–2027)
-💻 Learning Web Development
+💻 Web Developer (Frontend + Backend)
 🚀 Goal: Crack MNC Job
 
 ---
 
-## 🔧 Skills
+## 🛠 Tech Stack
 
 * 💻 C++, Java
 * 🌐 HTML, CSS, JavaScript
+* ⚛️ React (Learning)
+* 🟢 Node.js, Express.js
 * ⚙️ Git & GitHub
 
+---
 
-## 🔥 Top Projects
+## 🚀 Projects
 
-* 🚀 FSD Project
-* 📱 JavaScript Practice
-* ⚛️ React Assignment
+* 🔹 JavaScript Mini Projects
+* 🔹 React Assignment
+* 🔹 FSD Project
+
+---
+
+## 📈 What I'm Learning
+
+* MERN Stack Development
+* Data Structures & Algorithms
 
 ---
 
@@ -29,4 +39,4 @@
 
 ## ⚡ Fun Fact
 
-I love building projects and learning new technologies 🚀
+I build projects to learn faster 🚀
