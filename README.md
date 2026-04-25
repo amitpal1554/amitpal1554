@@ -1,42 +1,31 @@
-# 👋 Hi, I'm Amit Pal
-
-🎓 B.Tech Student (2023–2027)
-💻 Web Developer (Frontend + Backend)
-🚀 Goal: Crack MNC Job
+<h1 align="center">Hi 👋, I'm Amit Pal</h1>
+<h3 align="center">Full Stack Web Developer</h3>
 
 ---
 
-## 🛠 Tech Stack
-
-* 💻 C++, Java
-* 🌐 HTML, CSS, JavaScript
-* ⚛️ React (Learning)
-* 🟢 Node.js, Express.js
-* ⚙️ Git & GitHub
+### 👨‍💻 About Me
+- 🚀 I’m currently learning Full Stack Development
+- 🌱 Skills: HTML, CSS, JavaScript, React
+- 📫 Email: amit9696680583@gmail.com
+- 🎯 Goal: Become a Software Engineer
 
 ---
 
-## 🚀 Projects
-
-* 🔹 JavaScript Mini Projects
-* 🔹 React Assignment
-* 🔹 FSD Project
-
----
-
-## 📈 What I'm Learning
-
-* MERN Stack Development
-* Data Structures & Algorithms
+### 🚀 My Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,git,github" />
+</p>
 
 ---
 
-## 📫 Contact
-
-* Email:amit9696680583@gmail.com
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amitpal1554&show_icons=true&theme=radical" />
+</p>
 
 ---
 
-## ⚡ Fun Fact
-
-I build projects to learn faster 🚀
+### 🔥 Streak Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=amitpal1554&theme=radical" />
+</p>
